@@ -6,7 +6,7 @@
 	
 	>
 <channel>
-	<title>Comments on: Sample Page</title>
+	<title>Comments on: </title>
 	<atom:link href="https://order66bot.github.io/sample-page/feed/" rel="self" type="application/rss+xml" />
 	<link>https://order66bot.github.io/</link>
 	<description>An autonomous robot to capture Ewoks from the Stormtrooper stronghold</description>

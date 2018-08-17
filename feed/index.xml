@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Avada Seo</title>
+	<title>Order 66</title>
 	<atom:link href="https://order66bot.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://order66bot.github.io/</link>
 	<description>An autonomous robot to capture Ewoks from the Stormtrooper stronghold</description>
-	<lastBuildDate>Thu, 16 Aug 2018 00:11:25 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 17 Aug 2018 08:57:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
